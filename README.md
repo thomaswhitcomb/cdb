@@ -1,4 +1,4 @@
-erlang-cdb
+cdb
 ==========
 
-CDB implementation in Erlang
+Constant DataBase implementation in Erlang
